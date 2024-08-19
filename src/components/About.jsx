@@ -21,10 +21,10 @@ const About = () => {
                     <div className='text-gray-300 my-3'>
                         <h3 className='text-4xl font-semibold mb-5'>About <span>Me</span></h3>
                         <p className='text-justify leading-7 w-11/12 mx-auto'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            Iure nostrum eligendi et cupiditate animi quae minima dignissimos, 
-                            dolores, tempora quidem, repudiandae autem quis earum? Enim esse 
-                            tempora totam officiis quis!
+                        I am Miguel De La Mora, Industrial Design graduate with a specialized focus 
+                        on web development and a strong background in UX UI design. My academic 
+                        journey has culminated in a comprehensive understanding of design principles 
+                        and their seamless integration into web-based applications.
                         </p>
                     </div>
                 </div>

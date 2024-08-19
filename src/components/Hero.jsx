@@ -10,7 +10,7 @@ const hero = () => {
 
             <div className=' flex-col my-auto mx-auto md:mx-0'>
                 <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-200'>Hi, I am Miguel de la Mora</p>
-                <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'><TypeAnimation
+                <h1 className='md:text-7xl sm:text-5xl text-3xl font-bold md:py-6'><TypeAnimation
                 sequence={[
                     "Frontend Dev",
                     1000,
@@ -28,9 +28,9 @@ const hero = () => {
                     <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-500'>with a 2+ years experience</p>
                 </div>
                 <div className='text-5xl flex justify-start gap-16 my-7 text-purple-600'>
-                    <AiFillLinkedin/>
-                    <AiFillGithub/>
-                    <AiFillInstagram/>
+                   <a href="https://www.linkedin.com/feed/"><AiFillLinkedin/></a> 
+                   <a href="https://github.com/MiguelDeLaMora"><AiFillGithub/></a> 
+                   <a href="https://www.instagram.com/migueldlmora/"><AiFillInstagram/></a> 
                 </div>
                 <div className='relative inline-flex group my-3'>
                     <div className='absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r 
