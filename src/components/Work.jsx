@@ -1,7 +1,7 @@
 import React from 'react'
 import proj1 from '../assets/e-commerce.png'
 import proj2 from '../assets/SpotifyClone.png'
-import proj3 from '../assets/proj3.jpg'
+import proj3 from '../assets/under-construction.png'
 import proj4 from '../assets/ToDo.jpg'
 
 const Work = () => {
