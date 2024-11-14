@@ -1,6 +1,6 @@
 import React from 'react'
-import proj1 from '../assets/proj1.jpg'
-import proj2 from '../assets/proj2.jpg'
+import proj1 from '../assets/e-commerce.png'
+import proj2 from '../assets/SpotifyClone.png'
 import proj3 from '../assets/proj3.jpg'
 import proj4 from '../assets/ToDo.jpg'
 
@@ -25,11 +25,11 @@ const Work = () => {
                 <img src={proj1} alt="" className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110' />
                 </a>
 
-                <a href="/" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
+                <a href="https://github.com/MiguelDeLaMora/Spotify-Clone" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
                 <img src={proj2} alt="" className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110' />
                 </a>
 
-                <a href="/" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
+                <a href="https://github.com/MiguelDeLaMora/E-Commerce" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
                 <img src={proj3} alt="" className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110' />
                 </a>
 
