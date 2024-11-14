@@ -37,7 +37,7 @@ const hero = () => {
                     from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg 
                     group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200'>
                     </div>
-                    <a href="/" title='Download CV' role='button'
+                    <a href="../assets/Miguel_de_la_Mora.pdf" title='Download CV' role='button'
                     className='w-[190px] h-[60px] relative inline-flex items-center justify-center px-8 py-4 
                     text-lg font-bold text-white transition-all duration-200 bg-primary-color font-pj 
                     rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900'>
