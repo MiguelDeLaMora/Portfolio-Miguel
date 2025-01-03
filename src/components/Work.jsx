@@ -1,7 +1,7 @@
 import React from 'react'
 import proj1 from '../assets/e-commerce.png'
 import proj2 from '../assets/SpotifyClone.png'
-import proj3 from '../assets/under-construction.png'
+import proj3 from '../assets/wordle-background.jpg'
 import proj4 from '../assets/ToDo.jpg'
 
 const Work = () => {
@@ -29,7 +29,7 @@ const Work = () => {
                 <img src={proj2} alt="" className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110' />
                 </a>
 
-                <a href="/" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
+                <a href="https://github.com/MiguelDeLaMora/wordle-clone" target='_blank' className='group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80'>
                 <img src={proj3} alt="" className='h-full w-full object-cover object-center transition duration-200 group-hover:scale-110' />
                 </a>
 
