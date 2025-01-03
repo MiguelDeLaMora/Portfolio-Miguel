@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-Miguel/static/css/main.625bc72b.css",
-    "main.js": "/Portfolio-Miguel/static/js/main.58c2b5e5.js",
+    "main.js": "/Portfolio-Miguel/static/js/main.8562e8ae.js",
     "static/media/profilepic.png": "/Portfolio-Miguel/static/media/profilepic.a61ec0e91d4745e42a4f.png",
     "static/media/e-commerce.png": "/Portfolio-Miguel/static/media/e-commerce.4271be5104f58e528dc1.png",
     "static/media/SpotifyClone.png": "/Portfolio-Miguel/static/media/SpotifyClone.db0da4fc8575dea26e76.png",
-    "static/media/under-construction.png": "/Portfolio-Miguel/static/media/under-construction.3e6f2317df9eb7e8774c.png",
     "static/media/about1.jpg": "/Portfolio-Miguel/static/media/about1.f86e22ec5a76e3d49e73.jpg",
     "static/media/ToDo.jpg": "/Portfolio-Miguel/static/media/ToDo.a4e54034a9f1d39820e7.jpg",
+    "static/media/wordle-background.jpg": "/Portfolio-Miguel/static/media/wordle-background.a80280d2a621b36302b1.jpg",
     "index.html": "/Portfolio-Miguel/index.html",
     "main.625bc72b.css.map": "/Portfolio-Miguel/static/css/main.625bc72b.css.map",
-    "main.58c2b5e5.js.map": "/Portfolio-Miguel/static/js/main.58c2b5e5.js.map"
+    "main.8562e8ae.js.map": "/Portfolio-Miguel/static/js/main.8562e8ae.js.map"
   },
   "entrypoints": [
     "static/css/main.625bc72b.css",
-    "static/js/main.58c2b5e5.js"
+    "static/js/main.8562e8ae.js"
   ]
 }
